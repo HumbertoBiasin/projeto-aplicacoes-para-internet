@@ -1,0 +1,141 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: black;
+  margin: ;
+}
+
+header {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+.nav1 {
+  background-color: lightskyblue;
+  padding: 8px;
+  text-align: center;
+}
+
+.hnews {
+  background-color: red;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+.nav2 {
+  background-color: lightsalmon;
+  padding: 8px;
+  text-align: center;
+}
+
+.hesportes {
+  background-color: green;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+.nav3 {
+  background-color: lightgreen;
+  padding: 8px;
+  text-align: center;
+}
+
+.hentre {
+  background-color: orangered;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+.nav4 {
+  background-color: sandybrown;
+  padding: 8px;
+  text-align: center;
+}
+
+nav {
+  background-color: black;
+  padding: 8px;
+  text-align: center;
+  font-weight: bold;
+}
+
+nav a {
+  text-decoration: none;
+  margin-right: 40px;
+  margin-left: 40px;
+  color: black;
+}
+
+nav a:hover {
+  color: gray;
+}
+
+.pagina {
+  font-size: 60px;
+}
+
+p {
+  line-height: 1.5;
+  color: white;
+}
+
+.news {
+  color: red;
+  border-color: aliceblue;
+}
+
+.esportes {
+  color: green;
+  border-color: aliceblue;
+}
+
+.entretenimento {
+  color: orangered;
+  border-color: aliceblue;
+}
+
+.home {
+  color: blue;
+}
+
+a {
+  text-decoration: none;
+}
+
+.foto {
+  border-radius: 6%;
+  border-color: white;
+  }
+
+footer {
+  background-color: blue;
+  color: white;
+  padding: 5px;
+  text-align: left;
+}
+
+.fnews {
+  background-color: red;
+  color: white;
+  padding: 5px;
+  text-align: left;
+}
+
+.fesportes {
+  background-color: green;
+  color: white;
+  padding: 5px;
+  text-align: left;
+}
+
+.fentre {
+  background-color: orangered;
+  color: white;
+  padding: 5px;
+  text-align: left;
+}
+
